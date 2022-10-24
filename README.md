@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Fatra
+- 👋 Hi, I’m Ramadhan Fatra
 - 👀 I’m a Beginner of Mobile Dev
-- 🌱 I’m currently learning Flutter, Java, JavaScript, etc.
+- 🌱 I’m currently learning Flutter, JavaScript, etc.
+- ✌️ Glad to see you...
 
 <!---
 MrFatra/MrFatra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
