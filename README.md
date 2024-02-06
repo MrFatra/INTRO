@@ -2,12 +2,12 @@
 
 ## About Me
 
-I'm Ramadhan Fatra, a passionate software developer with expertise in Dart and JavaScript. 🚀
+I'm Ramadhan Fatra, a passionate software developer with experience in Dart and JavaScript. 🚀
 
 ## My Expertise
 
-- **Dart**: I love crafting elegant Flutter apps using Dart. From UI design to state management, I've got you covered!
-- **JavaScript**: With my experience at this time, I've mastered the ins and outs of JavaScript, whether it's building interactive web applications using ReactJS or NextJS.
+- **Dart**: I love crafting elegant Flutter apps using Dart. From UI design to state management.
+- **JavaScript**: With my experience at this time, I've mostly using JavaScript, whether it's building interactive web applications using ReactJS or NextJS.
 
 ## What I Do
 
@@ -21,6 +21,6 @@ I'm Ramadhan Fatra, a passionate software developer with expertise in Dart and J
 - 📸 Instagram: [@this._fatra](https://www.instagram.com/this._fatra)
 - ✉️ Email    : fatraramadhann2004@gmail.com
 
-Looking forward to connecting with fellow developers and tech enthusiasts! Feel free to reach out for collaborations or just to say hi. 
+Feel free to reach out for collaborations or just to say hi to me.  
 
-Yup, that's it.
+Yup, that's it, maybe enough.😉
